@@ -1,8 +1,6 @@
 # config-operator
-// TODO(user): Add simple overview of use/purpose
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
 
 ## Getting Started
 
@@ -111,7 +109,7 @@ previously added to 'dist/chart/values.yaml' or 'dist/chart/manager/manager.yaml
 is manually re-applied afterwards.
 
 ## Contributing
-// TODO(user): Add detailed information on how you would like others to contribute to this project
+
 
 **NOTE:** Run `make help` for more information on all potential `make` targets
 
@@ -124,13 +122,7 @@ See docs in `doc/`:
 - `doc/development.md` for developing/building/deploying
 - `doc/troubleshooting.md` for common issues
 
-## License
 
-Copyright 2025.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 
