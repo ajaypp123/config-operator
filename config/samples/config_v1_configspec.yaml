@@ -1,0 +1,14 @@
+apiVersion: ajay.dev/v1
+kind: ConfigSpec
+metadata:
+  labels:
+    app.kubernetes.io/name: config-operator
+    app.kubernetes.io/managed-by: kustomize
+  name: configspec-sample
+spec:
+  value: |
+    logLevel: info
+    featureFlags:
+      alpha: true
+  time: "2025-01-01T00:00:00Z"
+  status: Pending
